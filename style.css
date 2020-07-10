@@ -1,5 +1,8 @@
 .container{
-    margin-bottom: 200px;
+    margin-bottom: 100px;
+}
+.top{
+    margin-bottom: : 50px;;
 }
 body{
     width: 100%;
@@ -64,4 +67,42 @@ bg-red{
 }
 #courses{
     text-align: center;
+}
+.footer-image{
+    width: 20px;
+    height: 20px;
+}
+.card-body{
+    background-image: linear-gradient(rgb(243, 204, 241),pink);
+}
+.buy-course{
+    width:100px;
+    height:40px;
+    border-radius: 20px;
+    color: rgb(245, 245, 245);
+    background-color:  #21B573;
+}
+.man{
+    width:100px;
+    height:100px;
+}
+.testi{
+    text-align: center;
+}
+.testi2{
+ font-size: medium;
+}
+.prop-pic{
+    width: 60px;
+    height: 60px;
+}
+.last{
+    color:white;
+    height:100%;
+    background-color: rgb(66, 66, 66);
+    height:100%;
+}
+.last h6{
+
+    font-size: 10px;
 }
